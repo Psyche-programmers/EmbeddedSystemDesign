@@ -1,0 +1,13 @@
+MVC
+MODEL-ConnectionDB
+	DAO (Data Access Object)
+	DatabaseFunction
+VIEW- FXML
+CONTROLLER - Controller
+
+
+Create Read Update Delete
+
+loadB: 98D3,21,F73B81
+loadA: 98D3,A1,F5B548
+loadM: 98D3,61,F5B7C6
