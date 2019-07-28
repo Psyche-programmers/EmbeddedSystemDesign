@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Traces totalframe="126" count="5" aspect="169">
+ <Trace index="0" duration="6288" type="0" canBeRemoved="0" traceId="trace_main">
+  <ItemData transMode="-1" cropHeight="0" endtime="2448" fadeInTime="0" itemtype="0" posX="0" overlayMaxH="-1" cropWidth="0" tint="0" timelinePostion="0" bPitch="0" timelineLayer="0" id="item_data_1906" itemid="" volume="100" stabilization="0" groupId="" isRecordWave="0" assBackVideo="" bRemoveNoise="0" staturation="0" speed="1" brightness="0" bFadeout="0" bIsNewAss="0" width="640" webmSpec="0" bRemoveOrignal="0" chromaKeyTrans="100" pitchValue="0" effectId="" montionDur="3000" overlayPosX="-1" max_duration="304304" overlayPosY="-1" overlayMaxW="-1" intensity="0" montionId="" iRotate="0" filepath="C:/Users/User/Desktop/Salvage of the Modern Express.MP4" chromaKeyColor="" assFile="" isArchieve="0" transIndexKey="0" contrast="0" bReversPlayer="0" fadeOutTime="0" bFadein="0" temperature="0" rotate="" posY="0" bRepeat="1" height="640" cropBorderColor="#000000" starttime="0" transparence="100">
+   <AssContent><![CDATA[]]></AssContent>
+  </ItemData>
+  <ItemData transMode="-1" cropHeight="0" endtime="252890" fadeInTime="0" itemtype="0" posX="0" overlayMaxH="-1" cropWidth="0" tint="0" timelinePostion="2448" bPitch="0" timelineLayer="0" id="item_data_1916" itemid="" volume="100" stabilization="0" groupId="" isRecordWave="0" assBackVideo="" bRemoveNoise="0" staturation="0" speed="1" brightness="0" bFadeout="0" bIsNewAss="0" width="640" webmSpec="0" bRemoveOrignal="0" chromaKeyTrans="100" pitchValue="0" effectId="" montionDur="3000" overlayPosX="-1" max_duration="304304" overlayPosY="-1" overlayMaxW="-1" intensity="0" montionId="" iRotate="0" filepath="C:/Users/User/Desktop/Salvage of the Modern Express.MP4" chromaKeyColor="" assFile="" isArchieve="0" transIndexKey="0" contrast="0" bReversPlayer="0" fadeOutTime="0" bFadein="0" temperature="0" rotate="" posY="0" bRepeat="1" height="640" cropBorderColor="#000000" starttime="249050" transparence="100">
+   <AssContent><![CDATA[]]></AssContent>
+  </ItemData>
+ </Trace>
+ <Trace index="1" duration="0" type="1" canBeRemoved="0" traceId="trace_overlay"/>
+ <Trace index="2" duration="0" type="2" canBeRemoved="0" traceId="trace_text"/>
+ <Trace index="3" duration="0" type="3" canBeRemoved="0" traceId="trace_audio"/>
+ <Trace index="4" duration="0" type="4" canBeRemoved="0" traceId="trace_filter"/>
+</Traces>
